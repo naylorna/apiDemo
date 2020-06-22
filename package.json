@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/naylorna/apiDemo/issues"
   },
-  "homepage": "https://github.com/naylorna/apiDemo#readme"
+  "homepage": "https://github.com/naylorna/apiDemo#readme",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "request": "^2.81.0"
+  }
 }
