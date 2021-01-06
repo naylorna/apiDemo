@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/naylorna/apiDemo#readme",
   "dependencies": {
-    "axios": "^0.16.2",
+    "axios": "^0.21.1",
     "request": "^2.81.0"
   }
 }
